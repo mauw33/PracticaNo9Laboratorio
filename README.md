@@ -18,19 +18,25 @@ Los números complejos permiten realizar operaciones matemáticas con cantidades
 
 ### 9.1 Transforme a su forma polar:
 
- ![Screenshot]()
+ ![Screenshot](Laboratorio9/1.png)
+  ![Screenshot](Laboratorio9/2.png)
 
 ### 9.2 Transforme a su forma rectangular.
 
-
+ ![Screenshot](Laboratorio9/3.png)
+  ![Screenshot](Laboratorio9/4.png)
 
 ### 9.3 Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
 
+ ![Screenshot](Laboratorio9/5.png)
+  ![Screenshot](Laboratorio9/6.png)
+   ![Screenshot](Laboratorio9/7.png)
+    ![Screenshot](Laboratorio9/8.png)
+     ![Screenshot](Laboratorio9/9.png)
+      ![Screenshot](Laboratorio9/10.png)
+    
    
 ### 9.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
-
-
-
 
 5. VIDEO
 
