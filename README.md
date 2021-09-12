@@ -34,9 +34,10 @@ Los números complejos permiten realizar operaciones matemáticas con cantidades
     ![Screenshot](Laboratorio9/8.png)
      ![Screenshot](Laboratorio9/9.png)
       ![Screenshot](Laboratorio9/10.png)
-    
-   
+     
 ### 9.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
+
+Este literal lo pueden observar en el video ahi explicamos todo sobre lo realizado anteriormente
 
 5. VIDEO
 
